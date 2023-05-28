@@ -1,7 +1,7 @@
 {
   "name": "safe-ui",
   "private": false,
-  "version": "1.1.1",
+  "version": "1.2.0",
   "main": "lib/safe-ui.umd.cjs",
   "module": "lib/safe-ui.js",
   "typings": "lib/index.d.ts",
@@ -10,11 +10,14 @@
     ".": {
       "import": "lib/safe-ui.js",
       "require": "lib/safe-ui.umd.cjs"
-    }
+    },
+    "./style": "lib/style.css"
   },
   "files": [
     "lib/*"
   ],
+  "author": "levelopers",
+  "homepage": "https://github.com/levelopers",
   "license": "MIT",
   "scripts": {
     "dev": "vite",
