@@ -1,7 +1,7 @@
 {
   "name": "safe-ui",
   "private": false,
-  "version": "1.2.1",
+  "version": "1.2.2",
   "main": "lib/safe-ui.umd.cjs",
   "module": "lib/safe-ui.js",
   "typings": "lib/index.d.ts",
