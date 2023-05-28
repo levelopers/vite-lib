@@ -18,6 +18,14 @@
   ],
   "author": "levelopers",
   "homepage": "https://github.com/levelopers",
+  "keywords": [
+    "vite",
+    "vite-lib",
+    "ui-library",
+    "element-plus",
+    "vue3",
+    "storybook"
+  ],
   "license": "MIT",
   "scripts": {
     "dev": "vite",
